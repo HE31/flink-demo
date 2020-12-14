@@ -1,0 +1,5 @@
+WordCount{word='sink_java', count=1}
+WordCount{word='sink_sql', count=1}
+WordCount{word='sink_java', count=1}
+WordCount{word='sink_flink', count=1}
+WordCount{word='sink_flink', count=2}
